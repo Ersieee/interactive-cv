@@ -8,7 +8,7 @@ col md:flex-row items-center">
 <h1 class="text-5xl font-bold text-gray-800 mb-4 animate-slide-
 in-left" style="animation-delay: 200ms;">
 
-Halo, Saya <span class="text-blue-600">Nama Anda</span>
+Halo, Saya <span class="text-blue-600">Ergie Restu Dwi Maulana</span>
 </h1>
 <p class="text-xl text-gray-600 mb-8 animate-slide-in-left"
 style="animation-delay: 400ms;">
@@ -22,7 +22,7 @@ Hubungi Saya
 </a>
 </div>
 <div class="md:w-1/2 flex justify-center animate-slide-in-right">
-<img src="https://via.placeholder.com/400" alt="Foto Profil"
+<img src="D:\23.11.5505\interactive-cv\frontend\src\assets\WhatsApp Image 2025-07-11 at 14.23.21.jpeg" alt="Foto Profil"
 class="w-80 h-80 rounded-full object-cover shadow-lg">
 </div>
 </section>
