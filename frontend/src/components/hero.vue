@@ -22,7 +22,7 @@ Hubungi Saya
 </a>
 </div>
 <div class="md:w-1/2 flex justify-center animate-slide-in-right">
-<img src="D:\23.11.5505\interactive-cv\frontend\src\assets\WhatsApp Image 2025-07-11 at 14.23.21.jpeg" alt="Foto Profil"
+<img src="C:\23.11.5505\interactive-cv\frontend\src\assets\whatsapp-image-2025-07-11-14-23-21.jpeg" alt="Foto Profil"
 class="w-80 h-80 rounded-full object-cover shadow-lg">
 </div>
 </section>
